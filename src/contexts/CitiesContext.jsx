@@ -139,7 +139,6 @@ function CitiesProvider({ children }) {
         getCity,
         createCity,
         deleteCity,
-        error,
       }}
     >
       {children}
